@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "botiga.html",
+    "currentPage": "soci.html",
     "name": "CBA",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "CBA",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -393,7 +393,7 @@
     },
     "membres.html": {
       "settings": {
-        "title": "Membres del Club Alba",
+        "title": "Membres",
         "meta_descr": ""
       },
       "components": [
