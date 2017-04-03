@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "botiga.html",
+    "currentPage": "tacos.html",
     "name": "CBA",
     "theme": {
       "name": "mobirise3",
@@ -133,8 +133,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -287,8 +287,8 @@
           "_name": "footer1",
           "_anchor": "footer1-r",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -491,8 +491,8 @@
           "_name": "footer1",
           "_anchor": "footer1-v",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -816,8 +816,8 @@
           "_name": "footer1",
           "_anchor": "footer1-o",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -931,8 +931,8 @@
           "_name": "footer1",
           "_anchor": "footer1-1v",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1157,8 +1157,8 @@
           "_name": "footer1",
           "_anchor": "footer1-21",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1228,9 +1228,9 @@
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -1254,7 +1254,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "tacos.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1423,8 +1423,8 @@
           "_name": "footer1",
           "_anchor": "footer1-29",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1496,10 +1496,10 @@
             "overlayColor": "#222",
             "columns": 4,
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -1692,8 +1692,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2d",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
