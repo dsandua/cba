@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "botiga.html",
     "name": "CBA",
     "theme": {
       "name": "mobirise3",
@@ -1263,7 +1263,7 @@
           "title2": "Tacos",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ENTRAR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tacos.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ENTRAR</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/longoni-sultan-billiard-glove-left-hand-no-signature-thumb-600x600.jpg",
