@@ -92,7 +92,7 @@
             "showButtons": false
           },
           "title": "CLUB BILLAR ALBA",
-          "text": "Local d'uns 200 m2 situat en el centre de Badalona, disposa de 5 taules de billar. Es realitzan competicions a nivell estatal i internacional, de Carambolas a 3 bandas, Lliure y 5 Quilles.<br>",
+          "text": "Local d'uns 200 m2 situat en el centre de Badalona, disposa de 5 taules de billar. Es realitzan competicions a nivell estatal i internacional, de Caramboles a 3 bandes, Lliure i 5 Quilles.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD FOR WINDOWS</a>  "
         },
         {
@@ -138,7 +138,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2115,7 +2115,7 @@
             "showButtons": false
           },
           "title": "CLUB BILLAR ALBA",
-          "text": "Local d'uns 200 m2 situat en el centre de Badalona, disposa de 5 taules de billar. Es realitzan competicions a nivell estatal i internacional, de Carambolas a 3 bandas, Lliure y 5 Quilles.<br>",
+          "text": "Local de unos 200 m2 situado en el centro de Badalona, dispone de 5 mesas de billar. Se realizan competiciones de nivel estatal e internacional, de Carambolas a 3 bandas, Libre y 5 Quillas.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD FOR WINDOWS</a>  "
         }
       ]
