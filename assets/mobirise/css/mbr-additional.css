@@ -1741,3 +1741,7 @@ h6,
 #msg-box4-4a H3 {
   font-size: 24px;
 }
+#header3-4d .mbr-section-title,
+#header3-4d .mbr-section-subtitle {
+  text-align: center;
+}
