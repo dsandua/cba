@@ -1649,3 +1649,95 @@ h6,
 #ext_menu-43 .btn {
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+#menu-46 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-46 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-46 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-46 .link,
+#menu-46 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-46 .link {
+  font-size: 0.8rem;
+}
+#menu-46 .dropdown-item,
+#menu-46 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-46 .link:hover,
+#menu-46 .dropdown-item:hover,
+#menu-46 .link:focus,
+#menu-46 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-46 .link[aria-expanded="true"],
+#menu-46 .dropdown-menu {
+  background: #000000;
+}
+#menu-46 .nav-dropdown-sm .link:focus,
+#menu-46 .nav-dropdown-sm .link:hover,
+#menu-46 .nav-dropdown-sm .dropdown-item:focus,
+#menu-46 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-46 .navbar,
+#menu-46 .nav-dropdown-sm,
+#menu-46 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-46 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-46 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-46 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-46 .bg-color.transparent.opened .link:hover,
+#menu-46 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-46 .link[aria-expanded="true"],
+#menu-46 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-46.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-46 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-46 .close-icon::before,
+#menu-46 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-46 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box8-48 .mbr-section-title,
+#msg-box8-48 p {
+  color: #fff;
+}
+#msg-box4-4b H3 {
+  font-size: 24px;
+}
+#msg-box4-49 P {
+  text-align: left;
+  font-size: 11px;
+}
+#msg-box4-49 H3 {
+  font-size: 24px;
+}
+#msg-box4-4a H3 {
+  font-size: 24px;
+}
