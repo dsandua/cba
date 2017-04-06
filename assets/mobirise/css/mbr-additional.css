@@ -1745,3 +1745,93 @@ h6,
 #header3-4d .mbr-section-subtitle {
   text-align: center;
 }
+
+
+
+#msg-box8-4i .mbr-section-title,
+#msg-box8-4i p {
+  color: #fff;
+}
+#msg-box4-4k H3 {
+  font-size: 24px;
+}
+#msg-box4-4l P {
+  text-align: left;
+  font-size: 11px;
+}
+#msg-box4-4l H3 {
+  font-size: 24px;
+}
+#msg-box4-4m H3 {
+  font-size: 24px;
+}
+#header3-4n .mbr-section-title,
+#header3-4n .mbr-section-subtitle {
+  text-align: center;
+}
+#ext_menu-43 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-43 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-43 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-43 .close-icon::before,
+#ext_menu-43 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-43 .link,
+#ext_menu-43 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-43 .link {
+  font-size: 0.8rem;
+}
+#ext_menu-43 .dropdown-item,
+#ext_menu-43 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-43 .link:hover,
+#ext_menu-43 .dropdown-item:hover,
+#ext_menu-43 .link:focus,
+#ext_menu-43 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-43 .link[aria-expanded="true"],
+#ext_menu-43 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-43 .nav-dropdown-sm .link:focus,
+#ext_menu-43 .nav-dropdown-sm .link:hover,
+#ext_menu-43 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-43 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-43 .navbar,
+#ext_menu-43 .nav-dropdown-sm,
+#ext_menu-43 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-43 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-43 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-43 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-43 .bg-color.transparent.opened .link:hover,
+#ext_menu-43 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-43 .link[aria-expanded="true"],
+#ext_menu-43 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-43 .btn {
+  font-family: 'Oswald', sans-serif;
+}
