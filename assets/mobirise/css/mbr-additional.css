@@ -1652,6 +1652,9 @@ h6,
 
 
 
+
+
+
 #menu-46 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1728,6 +1731,15 @@ h6,
 #msg-box8-48 p {
   color: #fff;
 }
+#header3-5b .mbr-section-title,
+#header3-5b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5b H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  text-align: right;
+}
 #msg-box4-4b H3 {
   font-size: 24px;
 }
@@ -1741,9 +1753,39 @@ h6,
 #msg-box4-4a H3 {
   font-size: 24px;
 }
+#header3-5c .mbr-section-title,
+#header3-5c .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-4d .mbr-section-title,
 #header3-4d .mbr-section-subtitle {
   text-align: center;
+}
+#header3-4d H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  text-align: right;
+}
+#header3-4d SMALL {
+  font-size: 12px;
+}
+#header3-5d .mbr-section-title,
+#header3-5d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4q .mbr-section-title,
+#header3-4q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4q H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+#header3-4q SMALL {
+  font-size: 12px;
+}
+#content1-4u P {
+  text-align: left;
 }
 
 

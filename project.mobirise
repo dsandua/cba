@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 169,
+    "uniqCompNum": 194,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -4063,6 +4063,45 @@
           "text": "<blockquote>El billar a tres bandes consisteix en fer caramboles. Es considera carambola quan la bola jugadora golpeja les altres dues boles en la mateixa tirada. Però per que siguin vàlides, la bola jugadora ha d'haver tocat com a mínim tres bandes, que poden ser diferents o repetir-se, abans de golpejar la segona bola. El jugador continúa el seu torn fins que falli o cometi falta. Al igual que en el billar francés, la duració del joc vindrà determinada per sets o per distància (número de caramboles a realitzar). Per sets, es sol jugar al millor de cinc sets a quinze caramboles per set. Per distància, aquesta serà determinada al inici del joc, acostumant a ser de 40 o 50 caramboles. També es pot marcar un límit d'entrades que sol ser de 50 entrades.</blockquote>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"tecnica3b.html#header3-5c\" data-toolbar=\"-mbrBtnMove\">REGLAMENT</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"tecnica3b.html#header3-5d\" data-toolbar=\"-mbrBtnMove\">MEMORIA ASOCIATIVA</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "24px",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "Videos Formatius",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "msg-box5",
           "_tags": [
             "Theme"
@@ -4076,7 +4115,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4190,7 +4229,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4241,15 +4280,44 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-5c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-4d",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Reglament",
-          "meta": "Fuente: www.aprenderbillar.net"
+          "meta": "Font: www.aprenderbillar.net"
         },
         {
           "_tags": [
@@ -4260,9 +4328,418 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1. Los torneos de carambola a tres bandas deberán de ser gobernados por las reglas siguientes. Cualquier excepción deberá de ser mencionada en la reunión de jugadores previa al inicio del torneo, donde deberá de ser discutida y aprobada por la mayoría de los jugadores participantes. En algunos casos, las excepciones o variaciones de estas reglas pueden ser establecidas por los organizadores del evento o bien por el director del torneo.</span></p><p><br></p><p>2. Una carambola de tres bandas es válida y cuenta como un punto en cada uno de los siguientes casos:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">(a) La bola tiradora golpea la primera bola objetivo y después golpea tres o mas bandas antes de entrar en contacto con la segunda bola objetivo;</span><br></p><p>(b) La bola tiradora golpea tres o mas bandas y después entra en contacto con las dos bolas objetivas;(c) La bola tiradora golpea una banda, luego una bola objetivo y despues toca dos bandas o mas y luego entra en contacto con la segunda bola objetivo;</p><p>(d) La bola tiradora golpea dos bandas, golpea la primera bola objetivo y luego toca una o mas bandas antes de contactar la segunda bola objetivo.</p><p><br></p><p>3. Un conteo de tres bandas significa tres impactos contra la banda. Estos impactos no necesitan ser en tres bandas diferentes para ser válidos. El conteo es válido aun cuando la tiradora golpée la misma banda tres veces, o bien que obtenga tres contactos contra la banda en dos bandas diferentes como resultado del efecto inferido a la tiradora.</p><p><br></p><p>4. Tirando la banda para definir la salida.</p><p>(a) Cada jugador selecciona una bola las cuales se colocan a cada lado del punto de salida situado en la cabecera de la mesa, o sea la banda corta adonde se encuentra la marca de la mesa. Cada jugador golpea su bola hacia el lado opuesto de la mesa con la fuerza suficiente para regresar hacia la banda corta adonde se inicio la jugada, y la bola que pare mas cerca de la banda le dará al jugador el derecho de iniciar la partida ejecutando la carambola de salida.(b) Las bolas bien pueden tocar las bandas largas de la mesa, pero si ambas bolas entran en contacto, el jugador que taqueo con la bola que se salió de su camino y choca a la otra bola pierde el derecho a la salida. De igual manera perdera \"la salida\" si la bola salta fuera de la mesa.</p><p>(c) El ganador de la salida tiene el derecho \"de salir\", o de asignar la salida a su oponente. También tiene el derecho de escoger con qué bola iniciará la partida (la blanca o la amarilla), la cual será su bola por la duración de la partida.</p><p><br></p><p>5. La carambola de salida.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">(a) La bola del oponente se coloca en el punto de cabecera (el punto que cruza el segundo diamante a lo ancho y a lo largo de la mesa sobre la cabecera de la mesa).</span><br></p><p>(b)La bola tiradora se coloca en un punto situado a seis pulgadas (15.2 cm) hacia la derecha o hacia la izquierda del punto de cabecera.(c)La bola roja se coloca en el punto de abajo (el punto que cruza el segundo diamante a lo ancho y a lo largo de la mesa sobre la banda corta opuesta de la mesa).</p><p>El jugador ejecuta el tiro de salida con su bola con la intención de golpear primero la bola roja. Si la tiradora golpea primero la bola del jugador contrario es una falta y el jugador pierde su turno o entrada. En los tiros subsiguientes se puede atacar sobre cualquiera de las dos bolas, ya sea sobre la bola del oponente o bien sobre la bola roja.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">6. Faltas que terminan el turno o entrada del jugador.</span><br></p><p>(a) Cuando alguna de las bolas salta fuera de la mesa.(b) Cuando se comienza el tiro mientras las otras bolas estan en movimiento.</p><p>(c) Cuando se toca cualquiera de las bolas con la mano o cualquier parte de la vestimenta del jugador, o bien con el taco o la tisa o cualquier otro objeto o accesorio usado por el tirador. En este caso las bolas se mantendrán en la posición en que quedaron después de ser cometida la falta.(d) Cuando exista un \"empujón\" ilegal. (Este párrafo se refiere a un tipo de ejecución específico que determina una falta llamada \"empujón\" o \"arrastre\")</p><p>(e) Cuando se produce un \"retaqueo\" o \"doble ejecución\". (Este párrafo se refiere a un tipo de ejecución específico que determina una falta llamada \"retaqueo\" o \"doble ejecución\")(f) Cuando al momento de tirar el jugador no está haciendo contacto directo con el piso.</p><p>(g) Cuando el jugador ejecuta con la bola asignada a su oponente.(h) Cuando el jugador toca su bola con el taco durante el proceso de apunte.</p><p><br></p><p>7. Cualquier falta causada por una interferencia ajena a los jugadores no deberá de ser cargada al jugador de turno. Si las bolas son movidas debido a esta interferencia, deberan de ser re-colocadas lo mas aproximadamente posible a su posicion original y el jugador continuará su tiro tratando de anotar el punto conforme a la nueva posicion de las bolas.</p><p><br></p><p><br></p><p>8. Jugando con la bola del contrario.</p><p>(a) Cuando se juega con la bola equivocada se comete una falta y termina la entrada del tirador.(b) El oponente o bien el juez o réferi del juego pueden marcar la falta. El oponente puede marcar la falta antes o depués del tiro, mientras que el juez o réferi solamente podrá marcar la falta hasta que el tiro haya sido completado. La falta podrá ser marcada en cualquier momento durante una serie o corrida, pero el tirador tendrá derecho a todos los puntos adquiridos antes del tiro en el cual se marcó la falta.</p><p>(c) El jugador al que le toque el turno deberá de ejecutar la jugada conforme la posición que quedaron las bolas después que fué marcada la falta.</p><p><br></p><p>9. Bolas pegadas.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">(a) Si durante una entrada la bola tiradora para en contacto (está pegada) con cualquiera de las bolas objetivas, el jugador tiene la opción de tirar en cualquier dirección siempre y cuando no golpée la bola con la que está en contacto al momento de la ejecución del tiro, o bien podrá elegir que las bolas en contacto sean \"armadas\" o colocadas en sus lugares correspondientes.</span><br></p><p>(b) Si una entrada termina con la bola tiradora en contacto con la tiradora del oponente, o la bola roja en contacto con la tiradora del otro jugador, el jugador por tirar tiene la opción de tirar en cualquier dirección como en el párrafo anterior, o bien podrá elegir en \"armar\" o colocar las bolas en contacto. La otra bola (que no está pegada) debe de permanecer en el mismo lugar adonde se encuentra.(c) La bola roja se coloca en el punto marcado contrario a la cabecera de la mesa, mientras que la bola del tirador se coloca en el punto marcado en la cabecera de la mesa. La bola del oponente se coloca en el punto marcado en el centro de la mesa.</p><p>(d) Si el punto reservado para la bola que debe de \"armarse\" está ocupado por una de las otras bolas, la bola por armarse deberá de ser colocada usualmente en el punto reservado para la bola que ocupa el lugar de la bola por armar.(e) Las mismas reglas aplican cuando una o varias bolas saltan afuera de la mesa.</p><p><br></p><p>10. Cuando la tiradora está pegada a una banda, el jugador podrá tirar hacia la misma, pero el primer contacto no cuenta como banda impactada. Los contactos subsiguientes con la misma banda si son válidos para el conteo de bandas del tiro.</p><p><br></p><p>11. Cuando la bola del tirador, la del oponente o la roja salta fuera de la mesa, es una falta y el jugador pierde el derecho a sequir tirando.</p><p><br></p><p>12. Cuando la bola tiradora salta y circula por encima de la banda para luego regresar a la superficie de juego, la jugada es válida y cuenta como una banda impactada sin importar cuantas veces la tiradora entro en contacto con la banda. Si la tiradora circula sobre dos o mas bandas, cada banda cuenta como banda contactada. Si la tiradora para encima de la banda, el tiro se considerará como \"bola saltada\", lo cual constituye una falta y el jugador pierde el derecho al tiro. Si la tiradora o cualquiera de las otras dos bolas tocan el marco de la banda, es considerado una falta y la terminación de la entrada. Si la bola del oponente o la roja salta y circula sobre la banda sin tocar el marco, estas bolas también se consideran \"en juego\".</p><p><br></p><p>13. Ningún tiro deberá iniciarse cunado las bolas no estan completamente paradas o cuando estan todavía girando como consequencia del efecto. Si el jugador tira cuando las bolas estan en movimiento, se considera una falta y el fin de la entrada del tirador.</p><p><br></p><p>14. Si un jugador \"empuja\" la bola tiradora, o bien si al momento de tirar toca la tiradora dos veces (con el taco), es una falta y el tirador pierde el derecho a seguir tirando aún cuando se anote la carambola. Un \"empujón\" es un tiro en el cual el taco se mantiene en contacto con la tiradora después que la tiradora contacta la primera bola objetivo. Un doble contacto puede ocurrir cuando la tiradora es tocada o \"retaqueada\" dos veces.</p><p><br></p><p>15. Todos los tiros donde se producen \"choques\" o \"pas pas\" son válidos, ya sea que depriven al tirador de la anotación o bien que ayuden o contribuyan a la anotación del punto.</p><p><br></p><p>16. Las \"Pifias\" no necesariamente deben de ser consideradas faltas, a menos que la pifia se convierta en un \"retaqueo\". Si se anota una carambola aún cuando se ha producido una \"pifia\", el punto cuenta y el turno del tirador continúa.</p><p><br></p><p>17. Si en el proceso de apuntar el tirador toca la tiradora, se convierte en una falta y el jugador pierde el derecho al tiro.</p><p><br></p><p>18. Una partida llega a su fin oficial cuando uno de los jugadores ha completado el número de puntos designados para la partida, aún cuando el oponente haya tenido un turno menos. Si se utiliza un juez o réferi y un apuntador, el juego es oficial depués que la hoja del apuntador es firmada por el réferi, el apuntador y los jugadores. El réferi y el apuntador también deben de firmar la hoja de juego. Una vez que el perdedor fima la hoja de juego, ninguna protesta será considerada.</p><p><br></p><p>19. Si uno de los jugadores es responsable por cualquier tipo de interferencia, constituye una falta y termina la entrada. El jugador siguiente debe de aceptar la posición de las bolas. Un jugador que no está tirando (esperando su turno) no debe de distraer al oponente con movimientos o ruidos innecesarios. Si esta situación se produce, el réferi o el oficial del torneo podrá descalificar al jugador por conducta anti-deportiva.</p><p><br></p><p>20. Si por razones fuera de su control un jugador no puede comenzar un juego conforme el horario establecido, el juego puede ser pospuesto si así lo decide el director del torneo. Si un jugador no puede terminar una partida, el juego lo pierde por \"forfeit\" a menos que el oponente esté de acuerdo a teminar el juego a una hora conveniente para el manejo del torneo. Si un jugador no puede regresar al torneo, todos sus juegos son anulados.</p><p><br></p><p>21. Si un jugador es descalificado en medio de una partida, pierde el juego y no obtiene ningun punto. Su oponente es acreditado un juego ganado y se le otorgan el numero de puntos correspondientes como si hubiese ganado la partida. Si un jugador es descalificado del torneo, todos sus juegos son anulados (los juegos completados y por completar), y el torneo continúa como si hubiese un jugador menos al momento de iniciar el torneo. Este reglamento puede ser cambiado por las autoridades del torneo.</p><p><br></p><p>22. Si por razones fuera de su control un jugador no puede comenzar un juego, deberá de notificar con tiempo al director del torneo para permitirle reemplazar la partida con un jugador substituto o bien con otro par de jugadores. Todos los jugadores del torneo estan sujetos a una llamada inmediata si un jugador substituto es necesario.</p><p><br></p><p>23. Si un réferi considera que un jugador está tomando una cantidad de tiempo anormal para la ejecución de un tiro con la intención de perturbar a su oponente, el réferi deberá de notificar al jugador que se está tomando el riesgo de ser descalificado si prosigue con las tácticas dilatorias. Si el jugador continúa sus tácticas de perturbación, esto constituirá motivo suficiente para su descalificación. Si no esta oficiando ningún réferi, el director del torneo tendrá el derecho the invocar a esta reglamentación.</p><p><br></p><p>24. Tiros de defensa intencionales no son permitidos. Si se juegan constituyen una falta. El réferi o el director del torneo deberá de hacer la mención o violación de esta regla y el jugador de turno deberá de aceptar las bolas como queden o \"armar\" el tiro de salida.</p><p><br></p><p>25. En cualquier torneo, usualmente el director del torneo y otro miembro de la federación local u organizadores del evento que no esté participando en el torneo, deberán de constituir un comité al cual se deberá de informar de situaciones donde se viole la ética deportiva.</p><p>Antes de comenzar el torneo, los jugadores deberán de designar a dos de los jugadores para que sirvan en el comité para protejer los intereses de los jugadores. Los dos jugadores que representen a la federación local y los dos jugadores que representen los intereses de los demás jugadores deberán juntos evaluar las evidencias o reportes que constituyan una violación de ética deportiva. Si este comité no llega a un concenso para resolver la queja o reporte, los representantes deberán de someter un reporte por escrito a la la federación organizadora del evento para que esta sea considerada por la Junta de Directores. Los dos representantes de los jugadores también deberán de someter sus puntos de vista a la Junta de Directores para que en la próxima reunión regular o especial de la Junta de Directores, sea considerada la queja o mención y para que las acciones o resoluciones recomendadas por la mayoria de sus miembros sean aplicadas en contra o a favor del jugador o jugadores acusados.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Memorització Associativa per a jugar a Billar a Tres Bandes",
+          "meta": "font: memoriainteligente.blogspot.com.es/2012/10/memorizacion-asociativa-para-jugar.html"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Vamos a estudiar la forma de lograr memorizar las salidas, llegadas y ataque, para jugar billar a 3 bandas utilizando el sistema de diamantes.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aplicaremos la Técnica de Memorización Asociativa por medio de imágenes e Historias.</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-51",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-1-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>De esta manera Efecto Tres  quiere decir que debe colocar la punta del taco en el punto donde está la flecha del horario, cuando el reloj marca las Tres.  El efecto puede ser tanto a la derecha como a la izquierda ( equivalente a cuando el reloj marca las  NUEVE) , tal como lo muestra la figura anterior.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Veamos ahora como se maneja las llegadas, analizando la siguiente gráfica:</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-52",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-2-a-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Se supone en este caso, que la llegada va a ser por la banda larga de la izquierda de la figura, pero es importante establecer la numeración desde cualquier ubicación, dependiendo por donde se vaya a efectuar la salida.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Esta observación es válida también para la banda de salida y de ataque.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Continuemos ahora con las salidas, de acuerdo a las siguientes imágenes:</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-53",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-3-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Estas imágenes nos permiten recordar que en la esquina, la salida está asociada con el cincuenta; disminuyendo en la banda corta  de  cinco en cinco por cada diamante, de tal manera que en el primer diamante la puntuación es de quince; y aumentando en la banda corta, diez por cada diamante, pero observando que después del setenta, se duplica la cuenta, es decir sigue aumentando diez por cada medio diamante, hasta llegar a un valor máximo de cien. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><p>De igual manera asociamos imágenes para memorizar como tacar la bola para el ataque:</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-54",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-4-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>&nbsp;Ahora es muy importante memorizar las líneas de llegada, que nos permiten efectuar la carambola., en las cuales hay que tener en cuenta simultáneamente las bandas de llegada y de salida, asociando la una con la otra.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-55",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-5-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Banda de llegada ……………………………         Banda de salida</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                 ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  ………………..……….... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 42</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;45</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;47</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 55</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 62</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;67</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;70</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 75 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;85</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;90&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 95</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;100</blockquote><p><br></p><p>Luego llegamos a la Fórmula definitiva para saber como tacar y efectuar la carambola.  Veamos las imágenes con la historia asociada:.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-56",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-6-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-57",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-7-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Vamos a estudiar  ahora como  aplicar la técnica de memorización para ejecutar carambolas  donde la bola 1, le pega primero a la bola 2 antes de tocar la banda larga, luego toca la banda corta, llega a la otra banda larga y al final toca la bola 3. Puede ser una situación como la que se muestra a continuación:</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-58",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-8-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-59",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Lo estudiado en la carambola presentada en la situación anterior, lo podemos aclarar mejor  con la gráfica siguiente, donde   vemos que la Línea de Llegada es por el 30.</p><p>&nbsp;Si fuésemos a efectuar una banda previa con salida de 50, el ataque es por el 20 ( Salida = LLegada + Ataque, o sea 50 = 30 + 20), si  las dos bolas recibidoras estuvieran en esa dirección de llegada.</p><p>Pero si la bola 2, realmente  está en la posición que se indica en la figura, entonces ya la salida cambia del 50 al 60, y el ataque es en 30 y no en el 20, para que se vuelva a cumplir la fórmula, en este caso 60 = 30 + 30.&nbsp;</p><p>El efecto es el Tres por la izquierda, debido a que la bola vá de la banda larga de la derecha hacia la banda larga de la izquierda.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/billar-9-1400x943.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
