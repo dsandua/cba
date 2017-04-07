@@ -4388,10 +4388,10 @@
           "_anchor": "content1-4r",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Vamos a estudiar la forma de lograr memorizar las salidas, llegadas y ataque, para jugar billar a 3 bandas utilizando el sistema de diamantes.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aplicaremos la Técnica de Memorización Asociativa por medio de imágenes e Historias.</span><br></p>"
+          "text": "<blockquote>Vamos a estudiar la forma de lograr memorizar las salidas, llegadas y ataque, para jugar billar a 3 bandas utilizando el sistema de diamantes.</blockquote><blockquote><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aplicaremos la Técnica de Memorización Asociativa por medio de imágenes e Historias.</span></blockquote>"
         },
         {
           "_tags": [
@@ -4428,11 +4428,11 @@
           "_name": "content1",
           "_anchor": "content1-4s",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>De esta manera Efecto Tres  quiere decir que debe colocar la punta del taco en el punto donde está la flecha del horario, cuando el reloj marca las Tres.  El efecto puede ser tanto a la derecha como a la izquierda ( equivalente a cuando el reloj marca las  NUEVE) , tal como lo muestra la figura anterior.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Veamos ahora como se maneja las llegadas, analizando la siguiente gráfica:</span><br></p>"
+          "text": "<blockquote>De esta manera Efecto Tres  quiere decir que debe colocar la punta del taco en el punto donde está la flecha del horario, cuando el reloj marca las Tres.  El efecto puede ser tanto a la derecha como a la izquierda ( equivalente a cuando el reloj marca las  NUEVE) , tal como lo muestra la figura anterior.</blockquote><blockquote><span style=\"font-size: 1.07rem; line-height: 1.5;\">Veamos ahora como se maneja las llegadas, analizando la siguiente gráfica:</span></blockquote>"
         },
         {
           "_tags": [
@@ -4469,11 +4469,11 @@
           "_name": "content1",
           "_anchor": "content1-4w",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Se supone en este caso, que la llegada va a ser por la banda larga de la izquierda de la figura, pero es importante establecer la numeración desde cualquier ubicación, dependiendo por donde se vaya a efectuar la salida.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Esta observación es válida también para la banda de salida y de ataque.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Continuemos ahora con las salidas, de acuerdo a las siguientes imágenes:</span><br></p>"
+          "text": "<blockquote>Se supone en este caso, que la llegada va a ser por la banda larga de la izquierda de la figura, pero es importante establecer la numeración desde cualquier ubicación, dependiendo por donde se vaya a efectuar la salida.</blockquote><blockquote><span style=\"font-size: 1.07rem; line-height: 1.5;\">Esta observación es válida también para la banda de salida y de ataque.</span></blockquote><blockquote><span style=\"font-size: 1.07rem; line-height: 1.5;\">Continuemos ahora con las salidas, de acuerdo a las siguientes imágenes:</span></blockquote>"
         },
         {
           "_tags": [
@@ -4510,11 +4510,11 @@
           "_name": "content1",
           "_anchor": "content1-4x",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Estas imágenes nos permiten recordar que en la esquina, la salida está asociada con el cincuenta; disminuyendo en la banda corta  de  cinco en cinco por cada diamante, de tal manera que en el primer diamante la puntuación es de quince; y aumentando en la banda corta, diez por cada diamante, pero observando que después del setenta, se duplica la cuenta, es decir sigue aumentando diez por cada medio diamante, hasta llegar a un valor máximo de cien. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><p>De igual manera asociamos imágenes para memorizar como tacar la bola para el ataque:</p>"
+          "text": "<blockquote>Estas imágenes nos permiten recordar que en la esquina, la salida está asociada con el cincuenta; disminuyendo en la banda corta  de  cinco en cinco por cada diamante, de tal manera que en el primer diamante la puntuación es de quince; y aumentando en la banda corta, diez por cada diamante, pero observando que después del setenta, se duplica la cuenta, es decir sigue aumentando diez por cada medio diamante, hasta llegar a un valor máximo de cien. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</blockquote><blockquote>De igual manera asociamos imágenes para memorizar como tacar la bola para el ataque:</blockquote>"
         },
         {
           "_tags": [
@@ -4551,11 +4551,11 @@
           "_name": "content1",
           "_anchor": "content1-4t",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>&nbsp;Ahora es muy importante memorizar las líneas de llegada, que nos permiten efectuar la carambola., en las cuales hay que tener en cuenta simultáneamente las bandas de llegada y de salida, asociando la una con la otra.</p>"
+          "text": "<blockquote>&nbsp;Ahora es muy importante memorizar las líneas de llegada, que nos permiten efectuar la carambola., en las cuales hay que tener en cuenta simultáneamente las bandas de llegada y de salida, asociando la una con la otra.</blockquote>"
         },
         {
           "_tags": [
@@ -4592,11 +4592,11 @@
           "_name": "content1",
           "_anchor": "content1-4u",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Banda de llegada ……………………………         Banda de salida</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                 ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  ………………..……….... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 42</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;45</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;47</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 55</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 62</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;67</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;70</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 75 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;85</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;90&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 95</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;100</blockquote><p><br></p><p>Luego llegamos a la Fórmula definitiva para saber como tacar y efectuar la carambola.  Veamos las imágenes con la historia asociada:.</p>",
+          "text": "<blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Banda de llegada ……………………………         Banda de salida</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                 ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  ………………..……….... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 42</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;45</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;47</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 55</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 62</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;67</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;70</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 75 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;85</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;90</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;90&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 95</blockquote><blockquote>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ………………..………... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;100</blockquote><blockquote>Luego llegamos a la Fórmula definitiva para saber como tacar y efectuar la carambola.  Veamos las imágenes con la historia asociada:.</blockquote>",
           "_styles": {
             "P": {
               "text-align": "left"
@@ -4666,11 +4666,11 @@
           "_name": "content1",
           "_anchor": "content1-4v",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Vamos a estudiar  ahora como  aplicar la técnica de memorización para ejecutar carambolas  donde la bola 1, le pega primero a la bola 2 antes de tocar la banda larga, luego toca la banda corta, llega a la otra banda larga y al final toca la bola 3. Puede ser una situación como la que se muestra a continuación:</p><p><br></p>"
+          "text": "<blockquote>Vamos a estudiar  ahora como  aplicar la técnica de memorización para ejecutar carambolas  donde la bola 1, le pega primero a la bola 2 antes de tocar la banda larga, luego toca la banda corta, llega a la otra banda larga y al final toca la bola 3. Puede ser una situación como la que se muestra a continuación:</blockquote>"
         },
         {
           "_tags": [
@@ -4707,11 +4707,11 @@
           "_name": "content1",
           "_anchor": "content1-59",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Lo estudiado en la carambola presentada en la situación anterior, lo podemos aclarar mejor  con la gráfica siguiente, donde   vemos que la Línea de Llegada es por el 30.</p><p>&nbsp;Si fuésemos a efectuar una banda previa con salida de 50, el ataque es por el 20 ( Salida = LLegada + Ataque, o sea 50 = 30 + 20), si  las dos bolas recibidoras estuvieran en esa dirección de llegada.</p><p>Pero si la bola 2, realmente  está en la posición que se indica en la figura, entonces ya la salida cambia del 50 al 60, y el ataque es en 30 y no en el 20, para que se vuelva a cumplir la fórmula, en este caso 60 = 30 + 30.&nbsp;</p><p>El efecto es el Tres por la izquierda, debido a que la bola vá de la banda larga de la derecha hacia la banda larga de la izquierda.</p>"
+          "text": "<blockquote>Lo estudiado en la carambola presentada en la situación anterior, lo podemos aclarar mejor  con la gráfica siguiente, donde   vemos que la Línea de Llegada es por el 30.</blockquote><blockquote>&nbsp;Si fuésemos a efectuar una banda previa con salida de 50, el ataque es por el 20 ( Salida = LLegada + Ataque, o sea 50 = 30 + 20), si  las dos bolas recibidoras estuvieran en esa dirección de llegada.</blockquote><blockquote>Pero si la bola 2, realmente  está en la posición que se indica en la figura, entonces ya la salida cambia del 50 al 60, y el ataque es en 30 y no en el 20, para que se vuelva a cumplir la fórmula, en este caso 60 = 30 + 30.&nbsp;</blockquote><blockquote>El efecto es el Tres por la izquierda, debido a que la bola vá de la banda larga de la derecha hacia la banda larga de la izquierda.</blockquote>"
         },
         {
           "_tags": [
