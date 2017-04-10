@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tecnica3b.html",
+    "currentPage": "index.html",
     "name": "CBA",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 280,
+    "uniqCompNum": 293,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -201,7 +201,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -539,7 +539,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -753,7 +753,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -995,7 +995,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -1003,7 +1003,7 @@
       "settings": {
         "title": "Botiga",
         "meta_descr": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1277,7 +1277,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -1285,7 +1285,7 @@
       "settings": {
         "title": "Tacos",
         "meta_descr": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1562,7 +1562,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -1570,7 +1570,7 @@
       "settings": {
         "title": "Promotors",
         "meta_descr": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1851,7 +1851,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -1862,7 +1862,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2026,7 +2026,7 @@
       "settings": {
         "title": "Historia del Club",
         "meta_descr": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2358,7 +2358,7 @@
       "settings": {
         "title": "Membres",
         "meta_descr": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2610,7 +2610,7 @@
       "settings": {
         "title": "Nous Socis",
         "meta_descr": "",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2818,7 +2818,7 @@
       "settings": {
         "title": "Formulari de Contacte",
         "meta_descr": "",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3054,7 +3054,7 @@
       "settings": {
         "title": "Botiga",
         "meta_descr": "",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3333,7 +3333,7 @@
       "settings": {
         "title": "Promotors",
         "meta_descr": "",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -3866,15 +3866,15 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
     "page15.html": {
       "settings": {
         "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description",
-        "order": 20
+        "meta_descr": "Tecnica Lliure",
+        "order": 21
       },
       "components": [
         {
@@ -4108,7 +4108,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         },
         {
           "_styles": {
@@ -4851,7 +4851,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5834,7 +5834,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         },
         {
           "_styles": {
@@ -6188,7 +6188,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -6649,6 +6649,483 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index2.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br> ALBA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index2.html\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia2.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres2.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Miembros</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte2.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci2.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripciones</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ESCUELA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Técnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalidades</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b2.html\">3 Bandas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q2.html\">5 Quillas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Libre</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístico</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CAMPEONATOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Liga Catalana 3 Bandas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Navidad Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Libre</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quillas</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Verano Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandas</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Libre</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quillas</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga2.html\">TIENDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors2.html\">PROMOTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html\">ESPAÑOL</a></li>"
+        }
+      ]
+    },
+    "tecnicalib.html": {
+      "settings": {
+        "title": "Tecnica",
+        "meta_descr": "Tecnica Lliure",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-7s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7t",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x128.jpg",
+              "height": 128,
+              "alt": "Club Billar Alba",
+              "link": "index.html",
+              "title": "Club Billar Alba",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membres.html\"><span class=\"socicon socicon-myspace mbr-iconfont mbr-iconfont-btn\"></span>Membres</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\"><span class=\"socicon socicon-livejournal mbr-iconfont mbr-iconfont-btn\"></span>Inscripcions</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-google-scholar mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-7u",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/billar-2000x1217.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Tècnica",
+          "text": "<p>Lliure</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-7v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>El Billar italià o billar de quilles (també anomenat billar de 5 quilles) es considera com una variant del Billar francés. Es juga sobre una taula de billar de carambola i amb tres boles de billar, dues blanques i una vermella.</blockquote><blockquote>El que diferencia el joc del billar italià de 5 quilles i el billar francés es que en el primer es coloquen uns petits bolos anomenats quilles (5 en total) en el centre de la taula de billar; d'aquests 5 bolos un d'ells, el que es coloca en el centre, es de color vermell i els altres 4 de color blanc.</blockquote><blockquote><p>Cada jugador disposa d'una de les boles blanques i el joc consisteix en intentar fer carambola entre les tres boles o també conseguir derribar alguna de les quilles encara que només es vàlid si es derriba amb la bola del contrari o amb la bola vermella. </p><p>Les tirades correctes sumaran punts al jugador quan:</p></blockquote><blockquote><ul><li>Amb la bola pròpia toqui la contrària i projecti aquesta sobre les quilles.</li></ul></blockquote><blockquote><ul><li>La bola pròpia toqui la del adversari, aquesta toca la vermella i les projecta sobre les quilles.</li></ul></blockquote><blockquote><ul><li>La bola pròpia toca l'adversària, després toca la vermella i les projecta sobre les quilles.</li></ul></blockquote><blockquote><ul><li>La bola pròpia toca l'adversària i aquesta toca la vermella.</li></ul></blockquote><blockquote><ul><li>La bola pròpia toca l'adversària i la vermella.</li></ul></blockquote><blockquote>La tirada es considerarà correcte però no donarà punts a cap jugador quan, després d'haber tocat la bola adversària, aquesta, no abati quilles ni toqui la bola vermella.</blockquote><blockquote>La puntuació que s'obtingui dependrà del tipus de jugada, així si simplement es fa carambola entre les tres boles, la jugada es premia amb 4 punts (amb 3 si la carambola amb la bola vermella la fa la bola blanca del contrari), si es derriba qualsevol quilla son 2 punts, tret de si es derriba la quilla central que son 4 punts i si també es derriba la quilla central sense tumbar cap de les altres aleshores la puntuació es de 8 punts.</blockquote><blockquote>Aquesta modalitat del billar es juga en alguns paísos europeus com Itàlia, Dinamarca, Suissa,… encara que hi ha una variant del billar italià de quilles, que es el billar danés, en el que la taula de billar es com la que es fa servir en el snooker (amb 6 troneres).</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "buttons1-7w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"tecnica5q.html#header3-6r\" data-toolbar=\"-mbrBtnMove\">REGLAMENT</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "24px",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "Videos Formatius",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box4-7y",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/cdB39_4LuBo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "GRAN FINAL DE BILLAR 2014",
+          "text": "<p>Autor: Dani Sánchez</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "11px"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box4-7z",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/xR0JGbfdI7g",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Doblet a banda llarga",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Autor: Angel Viladomat</span><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box4-80",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/IY8xVQWetLk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Doblet",
+          "text": "<p>Autor: Angel Viladomat</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-81",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-82",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Reglament",
+          "meta": "Font: www.billar.biz"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-83",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>ART. 1 OBJECTIU DEL JOC&nbsp;</b></p><p>L'objecte del joc és realitzar la puntuació establerta per la R.F.E.B. per a la consecució de la partida. El jugador que aconsegueix primer aquesta puntuació és el guanyador de la partida.&nbsp;</p><p>Si després d'efectuada l'últim tiratge se sobrepassés la puntuació establerta, s'anotaran tots els punts aconseguits.&nbsp;</p><p>El joc pot consistir en una sola partida o per sets, quan les partides es disputen a sets, aquests, seran sempre imparells.</p><p><br></p><p><b>ART. 2 LA PARTIDA&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Una partida consisteix en la realització d'un cert nombre de punts, que es diu distància de joc.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">L'àrbitre col·locarà les boles blanques en la línia de sortida, a un costat i a l'altre d'un eix horitzontal imaginari traçat a l'altura del punt central i, a uns 30 cm d'ambdues bandes llargues, situant la vermella directament en el punt de sortida. Per a aquest tir l'àrbitre col·locarà la bola blanca del punt o acolorida en la part esquerra i la blanca en la part dreta.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Els jugadors tiraran contra la banda curta contrària, havent d'estar les dues boles en moviment abans que una d'elles toqui la banda curta. Si no fos així, es repetirà l'execució del cop de sortida, el jugador que per dues vegades fos el responsable d'aquest motiu perdrà l'opció d'elecció de sortida. No està permès doblegar la sortida (quatre passades).&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si durant el trajecte les boles es xoquen, el jugador causant del xoc perd l'elecció de sortida.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si la bola d'un jugador xoca amb la bola vermella, o amb alguna quilla, aquest, perd el dret d'elecció.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si durant el trajecte les boles es xoquen però no és possible determinar el responsable o, si les boles es detenen a igual distància d'a baix (banda curta d'arribada), l'àrbitre procedirà a repetir l'operació d'acosti.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El jugador la bola del qual es detingui més prop de la banda curta d'arribada, tria entre sortir ell o el seu contrari.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El jugador que inicia el joc ho farà sempre amb la bola blanca, conservant la seva bola durant tota la partida.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Els jugadors tiraran alternativament.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Els tiratges correctes sumaran punts al jugador quan:</span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">a. Amb la bola pròpia toqui la contrària i projecti aquesta sobre les quillas.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">b. La bola pròpia toca la de l'adversari, aquesta toca la vermella i les projecta sobre les quillas.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">c. La bola pròpia toca l'adversària, després toca la vermella i les projecta sobre les quillas.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">d. La bola pròpia toca l'adversària i aquesta toca la vermella.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">e. La bola pròpia toca l'adversària i la vermella.</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El tiratge es considerarà correcta però no donarà punts a cap jugador quan, després d'haver tocat la bola adversària, aquesta, no abat quilles ni toca la bola vermella .</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Per efectuar la sortida el jugador haurà de tenir almenys un peu tocant el sòl i, totalment dins dels límits marcats.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>ART. 3 FI DE LA PARTIDA</b>&nbsp;</p><p>Una vegada iniciada la partida, aquesta, ha de ser jugada fins a l'últim punt. La partida es considerarà acabada quan l'àrbitre anuncia el final, considerant-se igualment finalitzada encara que en un control s'observés un error produït en marcar els punts en la fulla de partit.&nbsp;</p><p>En els partits disputats a sets, quan un jugador aconsegueix els punts necessaris, guanya el set i aquest, s'acaba, sent necessari per guanyar el partit, adjudicar-se 2 sets, si el partit es decideix al millor de 3, o bé, guanyar 3, si aquest, s'estableix al millor de 5.</p><p><br></p><p><b>ART. 4 ABANDONAMENT DE LA PARTIDA&nbsp;</b></p><p>El jugador que abandoni el joc sense autorització de l'àrbitre perdrà la partida; no obstant això, si aquesta circumstància sobrevingués per una causa de força major, haurà de ser sotmès a la consideració del Director Esportiu de la prova, qui haurà de decidir.</p><p><br></p><p><b>ART. 5 LA SORTIDA&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El jugador que efectua la sortida ho farà sempre amb la bola blanca. Per emplaçar-la al seu gust se servirà del tac, tenint en compte de no sobrepassar la línia mitjana del billar.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">L'àrbitre col·locarà les boles de les següent manera:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">a. La bola del jugador que inicia la partida, bola lliure en la part inferior.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">b. La bola de l'adversari sobre el punt de sortida prop de la banda curta en la part superior del billar.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">c. La bola vermella en el punt del mitjà en la part superior del billar.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Una vegada situada la bola, podrà efectuar la sortida de manera que toqui la bola adversària.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">La jugada de sortida ha de ser de defensa, per la qual cosa no es poden obtenir punts. En el cas de realitzar punts, aquests, seran negatius i s'anotaran al jugador contrari.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Quan el partit es disputa pel sistema de sets, l'inici de cadascun d'ells serà alternat entre els dos jugadors amb independència dels resultats obtinguts.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cada jugador tirarà sempre amb la mateixa bola durant tot el partit.</span></p><p>Quan al final d'una jugada dues boles, o les tres, es toquen, es denomina posició de boles en contacte. En aquest cas es poden donar les següents circumstàncies :Cada jugador tirarà sempre amb la mateixa bola durant tot el partit.</p><p><br></p><p><b>ART. 6 PAUSA DURANT LA PARTIDA&nbsp;</b></p><p>Arribat el partit a la seva meitat, l'àrbitre decretarà una pausa de cinc minuts.&nbsp;</p><p>Serà considerat com a meitat de partit quan un jugador aconsegueix la meitat de la distància establerta, o quan en els partits diputats a sets, aquest arribés a l'1 - 1, si la trobada se celebra al millor de 3, o, al 2 - 1 si la distància estigués establerta al millor de 5.&nbsp;</p><p>De totes maneres, no es podrà concedir descans si la partida no ha aconseguit un mínim de 45 minuts.</p><p><br></p><p><b>ART. 7 BOLES EN CONTACTE</b>&nbsp;</p><p>La bola jugadora en contacte amb la bola adversària.</p><p>Tirar per banda o efectuar un massé destacat per separar les boles sense moure la bola adversària. No es considerarà falta si, al moment d'efectuar el tiratge, la bola adversària es mogués gairebé imperceptiblement en l'adreça de la bola jugadora com a conseqüència de la possible pèrdua de suport que, eventualment, li podria proporcionar la bola jugadora.</p><p>Efectuar un tir directe per separar les boles en sentit contrari una de l'altra sense realitzar punts. En el cas de realitzar punts, la jugada es considerarà correcta sense cap tipus de penalització, però els punts aconseguits s'anotaran a l'adversari.&nbsp;</p><p>La bola jugadora en contacte amb la bola vermella.</p><p><br></p><p>Quan la bola jugadora està tocant banda, el jugador no podrà jugar directament sobre aquesta banda, en cas contrari es comet falta.</p><p>La jugada és correcta sempre quan al moment d'efectuar la jugada no es mou la bola vermella, en cas contrari es comet falta. No es considerarà falta si el moure's la bola vermella és com a conseqüència del descrit a l'apartat anterior.</p><p><br></p><p><b>ART. 8 BOLES FORA DEL BILLAR&nbsp;</b></p><p>Una bola es considerarà fora del billar quan aquesta surti de la taula o toc el passamà que la circumda, cometent-se falta per aquest fet.&nbsp;</p><p>El jugador que, en efectuar la jugada, provoca la sortida d'una o més boles fora del billar, a més de la penalització complementària, l'àrbitre actuarà d'acord al següent:</p><p>Si la bola que surt és la del jugador que ha tirat, l'àrbitre la posarà en el punt de sortida del costat oposat on aquesta la bola del jugador que té dret a \"bola en mà\". En el cas que aquest punt de sortida estigués ocupat, la col·locarà en el de l'altre costat.&nbsp;</p><p>Si la bola que ha sortit és la de l'adversari, es col·locarà per a jugada de \"bola en mà\" en la part oposada de la bola del jugador que va efectuar el tir.&nbsp;</p><p>Si és la vermella la que surt del billar, es col·locarà en la posició de sortida; si aquesta posició estigués ocupada se situarà en la part contrària. L'àrbitre seguidament col·locarà la bola del jugador per tirada \" bola en mà\" en la part oposada de la bola de l'adversari.</p><p><br></p><p><b>ART. 9 LES QUILLES&nbsp;</b></p><p>Una quilla es considera abatuda quan la seva base perd el contacte completament amb el tapet.&nbsp;</p><p>Una quilla, una vegada caiguda, es considera com a tal encara que casualment tornés a posar-se en peus. La quilla serà col·locada en el seu lloc d'origen abans de la següent jugada.&nbsp;</p><p>Es considerarà també caiguda quan sigui una altra quilla qui la faci caure.&nbsp;</p><p>Si una quilla sense caure és desplaçada completament del seu lloc per una bola o per una altra quilla ja caiguda, es considerarà caiguda.&nbsp;</p><p>Si una quilla, una vegada caiguda, és arrossegada i fa caure unes altres, els punts seran vàlids, sent punts positius si la quilla en qüestió va ser arrossegada per la bola contrària o la vermella, si l'arrossegament hagués estat ocasionat per la bola jugadora, els punts seran negatius.&nbsp;</p><p>Si al final d'una jugada una quilla queda recolzada en una posició, més o menys inclinada amb la bola jugadora i al moment d'efectuar la jugada amb un tir correcte caigués, la quilla es considerarà com si no estigués en joc.&nbsp;</p><p>Si una quilla sense caure és desplaçada del seu lloc, no es considerarà caiguda. L'àrbitre la col·locarà en el seu lloc abans de la següent jugada.&nbsp;</p><p>Si una quilla queda recolzada amb la bola contrària i cau al moment en què la bola és tocada pel costat oposat, serà quilla caiguda.&nbsp;</p><p>Si el lloc d'una o més quillas està ocupat en part o totalment per una bola, l'àrbitre traurà la, o les quillas i la jugada es farà sense elles. Les quillas es col·locaran en el seu lloc quan sigui possible.</p><p>Si una quilla cau sola, per motius aliens al joc, l'àrbitre la col·locarà en la seva posició si és possible dins de la mateixa jugada. La quilla no es considerarà caiguda.</p><p><br></p><p><b>ART. 10 BOLA EN MÀ&nbsp;</b></p><p>Quan un jugador efectua una falta, l'adversari es beneficia d'una posició anomenada \"bola en mà\".&nbsp;</p><p>Quan acaba la partida, l'àrbitre pren la bola del jugador que ha de tirar a continuació i la posa lliurement en la part oposada a la qual es trobi la bola del jugador que hagi comès falta, la qual, deixa en el seu lloc.&nbsp;</p><p>El jugador que ha d'executar el tiratge pot disposar lliurement de la bola col·locada per l'àrbitre servint-se únicament del tac, tenint en compte el no sobrepassar la línia mitjana del billar.&nbsp;</p><p>El jugador que posseeix bola en mà, pot triar entre tirar segons les posicions indicades o demanar a l'àrbitre que col·loqui la bola adversària en posició d'inici de partida.&nbsp;</p><p>Si la bola adversària es troba a cavall de la línia mitjana del billar, la bola jugadora es posarà en el costat on aquesta va iniciar la partida.&nbsp;</p><p>Si el jugador que té bola en mà toca les boles abans que l'àrbitre les hagi situat, comet falta i, la jugada passa a l'adversari també amb bola en mà.&nbsp;</p><p>Durant la jugada de bola en mà el jugador ha de tenir almenys un peu en contacte amb el sòl i totalment dins de les línies traçades.</p><p><br></p><p><b>ART. 11 LÍMITES&nbsp;</b></p><p>Per les dues bandes del billar on es fa la sortida o la jugada de bola en mà, es marquen en el sòl dues línies paral·leles de 10 cm. pel costat extern de les bandes llargues del billar i de 30 cm. de llarga des de la banda curta en direcció a la banda llarga i sense límit per la part contrària.&nbsp;</p><p>En aquella jugades en què es fa esment a aquestes zones, els jugadors han de tenir obligatòriament els peus tocant en el sòl dins de les línies marcades, o, un peu dins i l'altre a l'aire.</p><p><br></p><p><b>ART. 12 INDICACIÓ DE LA BOLA&nbsp;</b></p><p>A petició del jugador, l'àrbitre està obligat a indicar-li com és la seva bola. No obstant això, en el marcador del partit haurà d'aparèixer reflectit al fet que jugador pertany la bola del punt o acolorida.</p><p><br></p><p><b>ART. 13 POSICIÓ DEL JUGADOR&nbsp;</b></p><p>El jugador que no està tirant haurà d'ocupar el lloc determinat per a tal efecte, podent esperar el seu torn de joc dempeus o assegut, però sempre de manera que no pugui molestar al contrari.</p><p><br></p><p><b>ART. 14 SENYALS EN EL BILLAR</b>&nbsp;</p><p>Està totalment prohibit al jugador marcar punts de referència sobre la superfície de joc o sobre les bandes.</p><p><br></p><p><b>ART. 15 CÀLCUL DELS PUNTS&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Les quillas blanques valen 2 punts cadascuna. La quilla vermella val 4 punts quan cau conjuntament amb alguna quilla blanca. Quan cau sola val 8 punts, estiguin o no totes les quillas.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El valor dels punts de la carambola amb la bola vermella és el següent:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si la bola pròpia, una vegada a tocat a l'adversària, toca la vermella, la jugada adquireix un valor de 4 punts.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si la bola pròpia toca l'adversària i aquesta al seu torn toca la bola vermella, la valoració s'estima igualment en 3 punts.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si després d'efectuada la jugada, les dues boles toquen la vermella, només es comptabilitzaran els punts per una sola vegada.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Si en una mateixa jugada es realitzen punts positius i negatius la suma d'aquests, s'anotaran a l'adversari.Si el jugador toca o hace caer alguna quilla antes de tocar la bola adversaria.&nbsp;</span></p><p><br></p><p><b>ART. 16 FALTES DELS JUGADORS&nbsp;</b></p><p>Les faltes comporten punts perduts per al jugador que les comet, fins i tot els punts vàlids, seran considerats perduts i se'ls anotaran al contrari. Si en efectuar la jugada el jugador comet més mancades, el valor dels punts seran sumats.&nbsp;</p><p>Si la bola jugadora tiratge correctament, derroqués quillas després d'haver tocat la bola adversària, la penalització serà únicament pels punts de quillas o de carambolas, sense posició de bola en mà per a l'adversari i sense penalitzacions complementàries.&nbsp;</p><p>Es comet falta i l'adversari adquireix el dret a bola en mà, més una penalització de dos punts sobre aquells que els pugui correspondre per carambola i enderrocament de quillas, en els següents casos:</p><p>Si el jugador no toca o toca incorrectament la bola adversària.</p><p>Si el jugador en tirar toca la bola més d'una vegada.</p><p>Si el jugador tira abans que les boles estiguin parades.</p><p>Si en l'execució del tiratge alguna bola saltés fos del billar.&nbsp;</p><p>Si el jugador toca una bola o quilla, amb la intenció de treure algun cos estrany sense demanar a l'àrbitre que ho faci.</p><p>Si el jugador tira amb una part del tac que no sigui la sola.&nbsp;</p><p>Si el jugador, estant la bola jugadora tocant una banda, tira directament sobre ella.</p><p>Si al moment de tirar el jugador no toca almenys amb un peu en el sòl, o bé, si en efectuar el tir de sortida o amb bola en mà, surt dels límits fixats en el sòl encara que només ho fes amb una part del peu.</p><p>Si la bola jugadora salta per sobre de les quillas o de la bola vermella abans d'haver tocat la de l'adversari.</p><p>Si el jugador toca o fa caure una quilla en contacte directe en efectuar un tir incorrecte.&nbsp;</p><p>Si en la posició de boles en contacte es comet falta per tir irregular.</p><p>Si la bola jugadora no toca l'adversària.</p><p>Si el jugador tira amb la bola de l'adversari.&nbsp;</p><p>Si el jugador, a excepció feta en l'atac de la pròpia bola en executar el tiratge, toca qualsevol bola o quilla amb el tac o amb qualsevol altra cosa.&nbsp;</p><p>Faltes que comporten una penalització complementària a més de \"bola en mà\", més la carambola o les quillas que poguessin caure:</p><p>Si la bola jugadora salta fora del billar després d'haver tocat la bola vermella, sense haver tocat la del contrari, es contemplarà una penalització de sis punts, més altres dos per fer saltar la bola fora del billar, dos més per tocar la vermella i altres dues per no tocar la bola contrària.</p><p>Si la bola jugadora toca la vermella abans d'haver tocat la bola adversària, comporta una penalització de 4 punts (2+2). Dos per no tocar la bola adversària i dues per tocar la vermella.</p><p>Si la bola jugadora salta fora del billar sense haver tocat la bola adversària, comporta una penalització de quatre punts, més altres dos per fer sortir la bola del billar i, altres dos per no haver tocat la bola adversària.</p><p><br></p><p><b>ART. 17 FALTES NO IMPUTABLES AL JUGADOR</b></p><p>Aquelles faltes que anessin provocades per terceres persones, inclòs l'àrbitre, i, que arribin a motivar el desplaçament tant de boles com de quillas, no seran imputables de cap manera al jugador, en aquests casos l'àrbitre restituirà al seu lloc exacte, en la mesura que fos possible, les boles o quillas que van ser desplaçades.&nbsp;</p><p>En els casos que tal mesurada no pogués dur-se a terme, l'àrbitre pot decidir el posar les boles en la posició de sortida.</p><p><br></p><p><b>ART. 18 TEMPS D'EXECUCIÓ DE LA JUGADA&nbsp;</b></p><p>Amb dispositiu de contasegonds en funcionament :&nbsp;</p><p>El jugador disposa de 40 segons per executar el tiratge, començant a explicar al moment que l'àrbitre ha acabat de col·locar les boles i/o les quillas i, a partir del moment en què les boles es trobin parades després de la jugada anterior.&nbsp;</p><p>Si després de transcorreguts els 40 segons no s'ha efectuat la jugada, el jugador tindrà una penalització de 2 punts que s'anotaran al seu adversari. A partir d'aquest moment, disposarà d'altres 20 segons, si transcorreguts els quals no ha efectuat el tiratge cometrà falta.</p><p><br></p><p><b>ART. 19 FALTA NO DETECTADA PER L'ÀRBITRE&nbsp;</b></p><p>Si un jugador tira amb bola contrària i l'àrbitre no s'adona, l'adversari estarà en el seu dret, just al moment que acaba la jugada, de fer constar a l'àrbitre la falta comesa. Una vegada comprovat per l'àrbitre que la falta va existir, podrà modificar la decisió.</p><p><br></p><p><b>ART. 20 PARTIDES DE DOBLES&nbsp;</b></p><p>Els jugadors poden decidir lliurement en cada partida com dels dos comença el joc.&nbsp;</p><p>Si en efectuar la jugada, no tirés el jugador de la parella que correspon, es comet falta, la mateixa que si hagués tirat amb la bola contrària, aplicant-se per tant, la mateixa penalització.&nbsp;</p><p>La jugada d'inici de la partida és obligatòriament una jugada de defensa i no provoca el canvi encara que l'adversari realitzi punts.&nbsp;</p><p>El canvi de jugador es produeix quan el jugador de la parella adversària realitza punts.</p><p>El jugador que va a tirar pot demanar consell al seu company sobre la jugada a realitzar, sent l'assessorament únicament teòric.&nbsp;</p><p>Si el jugador que va a tirar no ho sol·licita, el company no podrà intervenir.&nbsp;</p><p>El jugador que en efectuar un tiratge incorrecte, realitzi punts negatius, sempre que no tiri quillas, no provoca el canvi.</p><p><br></p><p><b>ART. 21 ATRIBUCIÓ DELS PUNTS&nbsp;</b></p><p>Si el partit es disputa a distància l'adjudicació de punts serà:&nbsp;</p><ul><li>Partida guanyada 1 punt de match&nbsp;</li><li>Partida perduda 0 punts de match</li></ul><p><br></p><p><b>ART. 22 INFRACCIONS&nbsp;</b></p><p>Qualsevol infracció a les presents regles serà tractada d'acord amb les disposicions estatutàries relatives al Reglament de Règim Disciplinari de la R.F.E.B.</p><p><br></p><p><b>ART. 23 DISPOSICIÓ FINAL&nbsp;</b></p><p>Seran de plena aplicació a la present reglamentació totes les regles i normes vigents de la R.F.E.B, a condició de no contradir, la qual cosa en el present Reglament Específic ha estat articulat..</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-84",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         }
       ]
     }
