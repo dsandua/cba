@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -421,7 +420,7 @@ h6,
   color: #c0a375;
 }
 #header1-k .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 72px;
 }
 #header1-k .mbr-section-lead {
@@ -1000,7 +999,7 @@ h6,
 
 
 #header1-2p .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 72px;
 }
 #header1-2p .mbr-section-lead {
@@ -1686,6 +1685,7 @@ h6,
 
 
 
+
 #menu-46 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1762,6 +1762,9 @@ h6,
 #msg-box8-48 p {
   color: #fff;
 }
+#buttons1-4p .btn {
+  font-family: 'Oswald', sans-serif;
+}
 #header3-5b .mbr-section-title,
 #header3-5b .mbr-section-subtitle {
   text-align: center;
@@ -1824,9 +1827,13 @@ h6,
 
 
 
+
 #msg-box8-5g .mbr-section-title,
 #msg-box8-5g p {
   color: #fff;
+}
+#buttons1-5i .btn {
+  font-family: 'Oswald', sans-serif;
 }
 #header3-5j .mbr-section-title,
 #header3-5j .mbr-section-subtitle {
