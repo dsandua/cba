@@ -1689,6 +1689,9 @@ h6,
 #msg-box8-48 p {
   color: #fff;
 }
+#msg-box8-48 .lead P {
+  text-align: center;
+}
 #buttons1-4p .btn {
   font-family: 'Oswald', sans-serif;
 }
