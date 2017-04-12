@@ -221,7 +221,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-9q",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1831,7 +1831,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-9r",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -6955,7 +6955,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12822.jpg",
               "height": 128,
               "alt": "Club Billar Alba",
               "link": "index2.html",
@@ -7913,7 +7913,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12822.jpg",
               "height": 128,
               "alt": "Club Billar Alba",
               "link": "index2.html",
