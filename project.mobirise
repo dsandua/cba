@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "promotors.html",
+    "currentPage": "tecnicaart2.html",
     "name": "CBA",
     "theme": {
       "name": "mobirise3",
@@ -83,6 +83,11 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": "4",
@@ -96,12 +101,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -206,7 +206,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -246,6 +246,11 @@
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-r",
           "_params": {
             "paddingTop": "4",
@@ -259,12 +264,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -584,11 +584,16 @@
       "settings": {
         "title": "Formulari de Contacte",
         "meta_descr": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-1v",
           "_params": {
             "paddingTop": "4",
@@ -602,12 +607,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_tags": [
@@ -781,11 +781,16 @@
       "settings": {
         "title": "Botiga",
         "meta_descr": "",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-21",
           "_params": {
             "paddingTop": "4",
@@ -799,12 +804,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -1068,11 +1068,16 @@
       "settings": {
         "title": "Tacos",
         "meta_descr": "",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-29",
           "_params": {
             "paddingTop": "4",
@@ -1086,12 +1091,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -1358,11 +1358,16 @@
       "settings": {
         "title": "Promotors",
         "meta_descr": "",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-2d",
           "_params": {
             "paddingTop": "4",
@@ -1376,12 +1381,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -1648,7 +1648,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -1664,6 +1664,11 @@
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-2o",
           "_params": {
             "paddingTop": "4",
@@ -1677,12 +1682,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_tags": [
@@ -1860,6 +1860,11 @@
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-2w",
           "_params": {
             "paddingTop": "4",
@@ -1873,12 +1878,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -2192,11 +2192,16 @@
       "settings": {
         "title": "Formulari de Contacte",
         "meta_descr": "",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-3b",
           "_params": {
             "paddingTop": "4",
@@ -2210,12 +2215,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_tags": [
@@ -2383,11 +2383,16 @@
       "settings": {
         "title": "Botiga",
         "meta_descr": "",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-3g",
           "_params": {
             "paddingTop": "4",
@@ -2401,12 +2406,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -2667,11 +2667,16 @@
       "settings": {
         "title": "Promotors",
         "meta_descr": "",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-3k",
           "_params": {
             "paddingTop": "4",
@@ -2685,12 +2690,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -2959,11 +2959,16 @@
       "settings": {
         "title": "Membres",
         "meta_descr": "",
-        "order": 5
+        "order": 26
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-3o",
           "_params": {
             "paddingTop": "4",
@@ -2977,12 +2982,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -3333,11 +3333,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-45",
           "_params": {
             "paddingTop": "4",
@@ -3351,12 +3356,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -4207,11 +4207,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-5e",
           "_params": {
             "paddingTop": "4",
@@ -4225,12 +4230,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -5072,11 +5072,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-6i",
           "_params": {
             "paddingTop": "4",
@@ -5090,12 +5095,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -5554,11 +5554,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-7f",
           "_params": {
             "paddingTop": "4",
@@ -5572,12 +5577,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -5643,7 +5643,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"tecnica5q.html#header3-6r\" data-toolbar=\"-mbrBtnMove\">REGLAMENTO</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"tecnica5q2.html#header3-7o\" data-toolbar=\"-mbrBtnMove\">REGLAMENTO</a> "
         },
         {
           "_styles": {
@@ -6030,11 +6030,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-7s",
           "_params": {
             "paddingTop": "4",
@@ -6048,12 +6053,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -6512,11 +6512,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-85",
           "_params": {
             "paddingTop": "4",
@@ -6530,12 +6535,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -6601,7 +6601,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"tecnicalib.html#header3-81\" data-toolbar=\"-mbrBtnMove\">REGLAMENTO</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"tecnicalib2.html#header3-8e\" data-toolbar=\"-mbrBtnMove\">REGLAMENTO</a> "
         },
         {
           "_styles": {
@@ -6963,7 +6963,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12833.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x1282.jpg",
               "height": 128,
               "alt": "Club Billar Alba",
               "link": "index2.html",
@@ -6988,11 +6988,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-8i",
           "_params": {
             "paddingTop": "4",
@@ -7006,12 +7011,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -7470,11 +7470,16 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-8v",
           "_params": {
             "paddingTop": "4",
@@ -7488,12 +7493,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -7921,7 +7921,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12833.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x1282.jpg",
               "height": 128,
               "alt": "Club Billar Alba",
               "link": "index2.html",
@@ -7943,7 +7943,7 @@
       "settings": {
         "title": "preus",
         "meta_descr": "",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -8173,7 +8173,7 @@
       "settings": {
         "title": "Preus",
         "meta_descr": "",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -8278,6 +8278,11 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-o",
           "_params": {
             "paddingTop": "4",
@@ -8291,12 +8296,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>.",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "Copyright (c) 2017 <a href=\"mailto:dsandua@gmail.com\">David Sandua</a>."
         },
         {
           "_styles": {
@@ -8401,7 +8401,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -8409,7 +8409,7 @@
       "settings": {
         "title": "On estem",
         "meta_descr": "",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -8451,6 +8451,13 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "contacts3-a2",
           "_params": {
             "paddingTop": "1",
@@ -8553,14 +8560,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacta</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "14px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacta</a>"
         },
         {
           "_name": "footer1",
@@ -8737,7 +8737,7 @@
       "settings": {
         "title": "On estem",
         "meta_descr": "",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -8779,6 +8779,13 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "contacts3-a6",
           "_params": {
             "paddingTop": "1",
@@ -8881,14 +8888,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacta</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "14px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacta</a>"
         },
         {
           "_name": "footer1",
@@ -9059,7 +9059,7 @@
       "settings": {
         "title": "Horaris",
         "meta_descr": "",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -9101,6 +9101,11 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content7-ai",
           "_params": {
             "paddingTop": "7",
@@ -9109,12 +9114,7 @@
           },
           "text1": "<p><b>DE DILLUNS A DIVENDRES</b></p><p><b><br></b></p><p>de 16:00 a 21:30</p>",
           "text2": "<p><b>DISSABTES</b></p><p><b><br></b></p><p>de 10:00 a 14:00</p><p><br></p><p>de 16:30 a 21:30</p>",
-          "text3": "<p><b>DIUMENGES</b></p><p><b><br></b></p><p>de 10:00 a 14:00</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text3": "<p><b>DIUMENGES</b></p><p><b><br></b></p><p>de 10:00 a 14:00</p>"
         },
         {
           "_tags": [
@@ -9254,7 +9254,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CLUB BILLAR<br>ALBA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CLUB</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"historia.html\"><span class=\"socicon socicon-stackoverflow mbr-iconfont mbr-iconfont-btn\"></span>Historia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"preus.html\"><span class=\"socicon socicon-stackexchange mbr-iconfont mbr-iconfont-btn\"></span>Tarifes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horaris.html\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>Horaris</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contacte.html\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Contacte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onestem.html\"><span class=\"socicon socicon-issuu mbr-iconfont mbr-iconfont-btn\"></span>On estem?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ESCOLA</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-slideshare mbr-iconfont mbr-iconfont-btn\"></span>Tècnica</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>Modalitats</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica3b.html\">3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnica5q.html\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicalib.html\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tecnicaart.html\">Artístic</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CAMPIONATS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.fcbillar.cat/ca/lligues/divisions/8\" target=\"_blank\">Lliga Catalana 3 Bandes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interclubs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Nadal Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Estiu Club Alba</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">5 Quilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lliure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3 Bandes</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botiga.html\" aria-expanded=\"false\">BOTIGA<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"promotors.html\">PROMOTORS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">CATALÀ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index2.html\">ESPAÑOL</a></li>"
         }
       ]
     },
@@ -9262,7 +9262,7 @@
       "settings": {
         "title": "Horaris",
         "meta_descr": "",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
