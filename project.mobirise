@@ -1402,7 +1402,7 @@
             "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2711,7 +2711,7 @@
             "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/copy-cropped-cropped-2014-04-22-2000x468.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6963,7 +6963,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12829.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12833.jpg",
               "height": 128,
               "alt": "Club Billar Alba",
               "link": "index2.html",
@@ -7921,7 +7921,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12829.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10474862-236239969920578-6856757138098816291-n-96x12833.jpg",
               "height": 128,
               "alt": "Club Billar Alba",
               "link": "index2.html",
