@@ -2558,6 +2558,9 @@ h6,
 #pricing-table2-9t .mbr-plan-label {
   font-family: 'Oswald', sans-serif;
 }
+#pricing-table2-9t .mbr-plan-price-desc B {
+  font-size: 16px;
+}
 #footer1-9u P {
   text-align: right;
 }
@@ -2663,6 +2666,9 @@ h6,
 }
 #pricing-table2-18 .mbr-plan-label {
   font-family: 'Oswald', sans-serif;
+}
+#pricing-table2-18 .mbr-plan-price-desc B {
+  font-size: 16px;
 }
 #footer1-o P {
   text-align: right;
